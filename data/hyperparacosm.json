@@ -1,0 +1,18 @@
+{
+    "id": 42117203,
+    "name": "Hyper Paracosm",
+    "author": "iIiViRuZiIi",
+    "creators": ["TheRealSneaky", "iIiViRuZiIi"],
+    "verifier": "joe",
+    "verification": "https://youtu.be/zQbU_2To0bg",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/WAGCyvAlv30?si=tK-DYTdfHn9_eHk-",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

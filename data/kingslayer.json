@@ -1,0 +1,18 @@
+{
+    "id": 84813026,
+    "name": "KINGSLAYER",
+    "author": "MothEye",
+    "creators": ["MothEye"],
+    "verifier": "Baeru",
+    "verification": "https://youtu.be/exSJrLme6so",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/bb0F6VvqZDE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

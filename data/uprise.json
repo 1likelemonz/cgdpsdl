@@ -1,0 +1,18 @@
+{
+    "id": 14977845,
+    "name": "Uprise",
+    "author": "Blad3M",
+    "creators": ["Blad3M", "Menkatjezzz"],
+    "verifier": "iNeo",
+    "verification": "https://youtu.be/oQBMG-aacNo",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/HKoF48Z8FG8?si=sLT7uNlNf6pIfYeQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "Sunix",
+    "creators": ["Cyclic"],
+    "verifier": "Sunix",
+    "verification": "https://youtu.be/GpXTwPgweAk",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/txKxh3iXUz4?si=KWAGfO9oPZT5E9Ts",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/kxnxyy_4uhY?si=vD4GgFHd5rc9_Kke",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "lukz715",
+            "link": "https://medal.tv/games/geometry-dash/clips/lTUJgIqplJvcAJJpF?invite=cr-MSxSelksMjA3NTM0Njkw&v=131",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

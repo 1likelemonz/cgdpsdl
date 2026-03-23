@@ -1,0 +1,42 @@
+{
+    "id": 50333567,
+    "name": "Catalyze",
+    "author": "ZephiroX",
+    "creators": ["ZephiroX"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://youtu.be/hF-TVX8wakc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/EfFB3Xmss6w?si=fEamGd8O3wwzOwvd",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/FAb-9xe6AZk?si=edt9Df7NtdyVLIlT",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/zrsSTAfnrVY?si=MJtnqI8vq3NNOMTl",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "lukz715",
+            "link": "https://medal.tv/games/geometry-dash/clips/lTSBfxlg6IYE-gDWl?invite=cr-MSxjOTksMjA3NTM0Njkw&v=81",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GhostXan",
+            "link": "https://youtu.be/5m43K1FJy9M?si=crtExSCnTNEhKaLO",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

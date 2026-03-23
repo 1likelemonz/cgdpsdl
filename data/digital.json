@@ -1,0 +1,42 @@
+{
+    "id": 37456092,
+    "name": "Digital Descent",
+    "author": "ViPriN",
+    "creators": ["Vlacc", "Serponge", "nasgubb", "ViPriN", "Kips", "Rustam", "AbstractDark", "LazerBlitz", "Terron", "Etzer", "Codex", "REDACTED", "Manix648", "Loogiah", "TheDevon", "KrmaL", "G4lvatron", "Samifying"],
+    "verifier": "combi",
+    "verification": "https://youtu.be/mX8j8jG-Um8",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/wC2-sMYd-ZM?si=uCMpuRpdeANtKmWq",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/lYYI9z39vfk?si=H8yf0Pxtx8TmOBMd",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/yXSQd9U9Zac?si=ygwJF3eGZ4QDKlao",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "lukz715",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+   {
+            "user": "isemarcos",
+            "link": "https://www.youtube.com/watch?v=D5-DfnFOuDQ&t",
+            "percent": 92,
+            "hz": 144
+        }
+    ]
+}

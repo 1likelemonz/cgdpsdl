@@ -1,0 +1,24 @@
+{
+    "id": 51791710,
+    "name": "Auditory Breaker",
+    "author": "LazerBlitz",
+    "creators": ["LazerBlitz","Cyclic","Manix648"],
+    "verifier": "Gabs",
+    "verification": "https://youtu.be/ZcQ5NrKmpT0",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=giDd4aNLCqs",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/G_vegoS_Qng?si=diFkLzXffcTZoaKu",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

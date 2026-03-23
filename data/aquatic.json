@@ -1,0 +1,18 @@
+{
+    "id": 60740290,
+    "name": "Aquatic Auroras",
+    "author": "Endlevel",
+    "creators": ["Endlevel","El3ctr0","LimeTime313"],
+    "verifier": "kyoto",
+    "verification": "https://www.youtube.com/watch?v=cD0zZ9OJkBE",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=aZDQu9lei4g&t=",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

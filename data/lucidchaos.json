@@ -1,0 +1,18 @@
+{
+    "id": 62817170,
+    "name": "Lucid Chaos",
+    "author": "CairoX",
+    "creators": ["Helpegasus", "SleyGD", "Endlevel", "Dorami", "creoa", "Moosh", "Deadlox", "Cairox", "iNubble", "TriplasH", "Jaowan"],
+    "verifier": "Colorbolt",
+    "verification": "https://youtu.be/lsZ8okUy_tk",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/TowXbh4-lA0?si=SDFXT1NPsPeA7fUk",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

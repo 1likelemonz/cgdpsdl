@@ -1,0 +1,18 @@
+{
+    "id": 48008831,
+    "name": "Annihilation Nation",
+    "author": "Zylenox",
+    "creators": ["Zylenox"],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/6WiRsUbg2MQ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/-32rF5qiS7Q?si=4blcka070ULujtJ-",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}

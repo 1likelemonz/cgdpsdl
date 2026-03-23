@@ -1,0 +1,18 @@
+{
+    "id": 56089612,
+    "name": "Zettabyte",
+    "author": "Jenkins",
+    "creators": ["Jenkins"],
+    "verifier": "Jenkins",
+    "verification": "https://youtu.be/Dbl99ctIc_E",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "reizor",
+            "link": "https://youtu.be/x_y_z8lz5t0?si=39liXQN616oV05Re",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

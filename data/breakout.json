@@ -1,0 +1,18 @@
+{
+    "id": 25241513,
+    "name": "Breakout",
+    "author": "Surv",
+    "creators": ["Surv","nwolc"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/foEA5hS1aUw",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "lukz715",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

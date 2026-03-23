@@ -1,0 +1,36 @@
+{
+    "id": 18697406,
+    "name": "Retention",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411"],
+    "verifier": "WOOGI1411",
+    "verification": "https://youtu.be/3VUfd7jRt5U",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "lukz715",
+            "link": "https://youtu.be/NxKdY2rAsKY?si=uQouiMe_QANx7w2g",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "GhostXan",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/XnHKrb02kHg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/xGucTPPbksE?si=9gtznc3R5tkoPwyb",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

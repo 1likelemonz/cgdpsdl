@@ -1,0 +1,24 @@
+{
+    "id": 68731559,
+    "name": "Untitled",
+    "author": "iiLuna",
+    "creators": ["Convie", "KrazyGFX", "Zetalock", "zYuko", "Zuku", "iiLuna"],
+    "verifier": "s3batr0nic",
+    "verification": "https://youtu.be/arG9DaacSLw",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/Ld2O3P7ay9c?si=xqZGF1ymA3LeW0YW",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/neQtaq5kxyI?si=0Xy0ezlx6mr329H6",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

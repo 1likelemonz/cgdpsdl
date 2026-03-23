@@ -1,0 +1,18 @@
+{
+    "id": 81744548,
+    "name": "It back",
+    "author": "HangyKing",
+    "creators": ["HangyKing"],
+    "verifier": "HangyKing",
+    "verification": "https://youtu.be/I9Vmi2ZWIe4",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Lukz715",
+            "link": "a",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

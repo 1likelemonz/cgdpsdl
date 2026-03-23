@@ -1,0 +1,24 @@
+{
+    "id": 38550757,
+    "name": "Artificial Dream",
+    "author": "iIiViRuZiIi",
+    "creators": ["iIiViRuZiIi"],
+    "verifier": "iIiViRuZiIi",
+    "verification": "https://youtu.be/C-2PUPD6Rw4",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "isemarcos",
+            "link": "https://youtu.be/zXT0sVjjq4E?si=TJ2OND3zdqrvheDf",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "lukz715",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

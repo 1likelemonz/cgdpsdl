@@ -1,0 +1,24 @@
+{
+    "id": 25449475,
+    "name": "Fexty",
+    "author": "SkyJax",
+    "creators": ["Ozpectro"],
+    "verifier": "SkyJax",
+    "verification": "https://youtu.be/xwe1MbOjdpU",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/kIGunt-6IGc?si=MOtd3mgVL-1wQEM5",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "Nico GG",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

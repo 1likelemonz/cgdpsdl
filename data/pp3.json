@@ -1,0 +1,24 @@
+{
+    "id": 20159880,
+    "name": "Plasma Pulse III",
+    "author": "xSmokes",
+    "creators": ["xSmokes", "Giron"],
+    "verifier": "xSmokes",
+    "verification": "https://youtu.be/obz_F8jnBUU",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/6-2_o0EaBx0?si=gf4KZ1K748ZZ4-G0&t=162",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/4uwVS34fWLM?si=VHUw6Eccn65-2PGi",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

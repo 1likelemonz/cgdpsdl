@@ -1,0 +1,24 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "Endlevel",
+    "verification": "https://youtu.be/wzutYMNXr-Y",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "lukz715",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/e1i5BX1y5G4?si=KtHnugDIK_2B5zWV",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}

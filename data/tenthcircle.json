@@ -1,0 +1,18 @@
+{
+    "id": 62592746,
+    "name": "Tenth Circle",
+    "author": "DeniPol",
+    "creators": ["NormDanchik","DeniPol"],
+    "verifier": "Blitzer",
+    "verification": "https://youtu.be/d3IYDgX_Vtk",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=CRJNf2MaMSE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

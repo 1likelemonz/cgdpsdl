@@ -1,0 +1,18 @@
+{
+    "id": 57433866,
+    "name": "BuTiTi III",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "PancakeKnight",
+    "verification": "https://youtu.be/abei8PCdi5A",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

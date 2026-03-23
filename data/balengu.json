@@ -1,0 +1,24 @@
+{
+    "id": 55385816,
+    "name": "Balengu Vortex",
+    "author": "Temp",
+    "creators": ["Temp","ItsHybrid","HJfod"],
+    "verifier": "Temp",
+    "verification": "https://youtu.be/2BwK_ngpdPA",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/RICzNszPfZM?si=x00l93ZExFoEWuFT",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/4n3qj1oxyY8?si=RU5wF6gO4l6uMLUH",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

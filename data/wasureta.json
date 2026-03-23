@@ -1,0 +1,24 @@
+{
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "Helpegasus",
+    "creators": ["XLSpiral", "Helpegasus", "Deadlox", "augi", "Isane", "BelonziK", "El3ctr0", "LimeTime313", "REDACTED", "Splash"],
+    "verifier": "VaporWubz",
+    "verification": "https://youtu.be/9jkCtNDbDt0",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/PTMQkN_DakU?si=Lm2kjGDNub4SXVfv",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/J9ja_sExzsE?si=Y2TNFvecVuPVd5rw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

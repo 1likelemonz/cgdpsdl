@@ -1,0 +1,18 @@
+{
+    "id": 20077821,
+    "name": "Red World Rebirth",
+    "author": "Riot",
+    "creators": ["NePtunE", "saRy", "ViPriN", "Findexi", "Riot", "REDACTED"],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/WsxDUMLRqN4",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/kvI-v2l50rQ?si=uGxeMu8zaMSfbYli",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}

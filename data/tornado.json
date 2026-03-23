@@ -1,0 +1,18 @@
+{
+    "id": 83098728,
+    "name": "TORNADO",
+    "author": "BIANOX",
+    "creators": ["Vlacc","Jenkins","GRINDEX","Sauzzeth","ZeroSR","para","Koolboom","Scrumpy","BIANOX","Artu","Woom","BUCKENDOOF","Marwec","Buragoz","TCHKE","FerdeFunky","E.0.T.S","Thomartin"],
+    "verifier": "SpeedyMuffin",
+    "verification": "https://youtu.be/xC8Emqk5t18",
+    "percentToQualify": 100,
+    "password": "password or Free Copy",
+    "records": [
+        {
+            "user": "reizor",
+            "link": "https://www.youtube.com/watch?v=rkUwDmzuqTI",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

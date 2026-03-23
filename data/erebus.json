@@ -1,0 +1,24 @@
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "BoldStep",
+    "creators": ["Rustam", "ILRELL"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/8csWDx6C2YI",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/o1fSdq1k6Xo?si=4szZ9fm3QfBxVFof",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/fjphhizBF_w?si=QNifDL-oy9piv6V0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
